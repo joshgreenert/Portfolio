@@ -4,16 +4,16 @@ This repository showcases a collection of 10 projects I've worked on, demonstrat
 
 ## Table of Contents
 
-1. [CRM To Google Calendar](#1-crm-to-google-calendar)
-2. [E-Commerce By Day Conversions](#2-e-commerce-by-day-conversions)
-3. [Employee By Industry Comparison](#3-employee-by-industry-comparison)
-4. [SPY Forecasting](#4-spy-forecasting)
-5. [SQL File Google Bucket Storage](#5-sql-file-google-bucket-storage)
-6. [Student Performance Data Analysis](#6-student-performance-data-analysis)
-7. [Update GitHub Simple History Logs](#7-update-github-simple-history-logs)
-8. [Video Game Recommendation System](#8-video-game-recommendation-system)
-9. [Weather Program](#9-weather-program)
-10. [Webpage Servlet](#10-webpage-servlet)
+1. [CRM To Google Calendar](https://github.com/joshgreenert/Portfolio/tree/main/CRM%20To%20Google%20Calendar)
+2. [E-Commerce By Day Conversions](https://github.com/joshgreenert/Portfolio/tree/main/E-Commerce%20By%20Day%20Conversions)
+3. [Employee By Industry Comparison](https://github.com/joshgreenert/Portfolio/tree/main/Employee%20By%20Industry%20Comparison)
+4. [SPY Forecasting](https://github.com/joshgreenert/Portfolio/tree/main/SPY%20Forecasting)
+5. [SQL File Google Bucket Storage](https://github.com/joshgreenert/Portfolio/tree/main/SQL%20File%20Google%20Bucket%20Storage)
+6. [Student Performance Data Analysis](https://github.com/joshgreenert/Portfolio/tree/main/Student%20Performance%20Data%20Analysis)
+7. [Update GitHub Simple History Logs](https://github.com/joshgreenert/Portfolio/tree/main/Update%20GitHub%20Simple%20History%20Logs)
+8. [Video Game Recommendation System](https://github.com/joshgreenert/Portfolio/tree/main/Video%20Game%20Recommendation%20System)
+9. [Weather Program](https://github.com/joshgreenert/Portfolio/tree/main/Weather%20Program)
+10. [Webpage Servlet](https://github.com/joshgreenert/Portfolio/tree/main/Webpage%20Servlet)
 
 ### 1. CRM To Google Calendar
 
