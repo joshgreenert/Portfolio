@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>First Bean</title>
+</head>
+<body>
+<div>
+<!-- First we instantiate the bean //-->
+<!-- Be sure to include the package name //-->
+<h3>Create Bean</h3>
+<br />
+<jsp:useBean id='first' class='coffeeBeans.MyFirstBean' />
+<!-- Now we access the bean //-->
+<!-- First we get the bean's default value //-->
+<h3>Bean's default value</h3>
+<jsp:getProperty name='first' property='password' />
+<!-- Second we set the bean's value //-->
+<h3>Set bean's new value</h3>
+<jsp:setProperty name='first' property='password' value='newPassword' />
+<!-- Third access the bean's new value //-->
+<h3>Get bean's new value</h3>
+<jsp:getProperty name='first' property='password' />
+<br />
+<h3>Set & Get bean's new value</h3>
+<jsp:setProperty name='first' property='password' value='secondPassword' />
+<jsp:getProperty name='first' property='password' />
+</div>
+</body>
+</html>

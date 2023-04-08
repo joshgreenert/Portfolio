@@ -1,0 +1,39 @@
+/* Created by Joshua Greenert 9/14/2020 Assignment 4.1  */
+
+h1 {
+  color: rgb(10, 10, 29);
+  text-align: center;
+}
+
+body {
+  background-color: rgb(68, 190, 178);
+}
+div.form
+{
+    display: block;
+    text-align: center;
+}
+form
+{
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+a {
+  color: white;
+  text-align: center;
+  display: block;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 80%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
